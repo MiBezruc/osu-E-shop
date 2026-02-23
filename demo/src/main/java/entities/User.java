@@ -1,4 +1,5 @@
 package entities;
+//32
 /*
 import jakarta.persistence.*;
 import org.hibernate.annotations.GenericGenerator;
